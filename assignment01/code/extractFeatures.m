@@ -1,5 +1,5 @@
 # EFME 1. assignment
-# first name last name, student id 
+# Koray Koska, 1528624
 
 function [features] = extractFeatures (imgName)
 ## TASK 4.1
