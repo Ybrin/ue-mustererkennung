@@ -1,1 +1,1 @@
-function sentence = hello(firstname, lastname)  sentence = [{'Hello ', firstname, ' ', lastname, '. How are you?'}{:}]endfunction
+function sentence = hello(firstname, lastname)  sentence = ['Hello ', firstname, ' ', lastname, '. How are you?'];end
