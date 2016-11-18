@@ -1,5 +1,5 @@
 % EFME 2. assignment
-% firstname lastname, student id
+% Koray Koska, 1528624
 
 % BAYES THEOREM
 

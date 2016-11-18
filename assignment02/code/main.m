@@ -38,4 +38,4 @@ testsetLeafs = normalizeData(testsetLeafs);
 kNNTasks
 
 %% Bayes Theorem
-bayesTasks
+% bayesTasks
